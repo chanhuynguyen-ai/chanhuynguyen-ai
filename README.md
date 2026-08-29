@@ -213,15 +213,3 @@ NVIDIA Jetson robot car for **computer vision, edge AI, and autonomous driving e
 </div>
 
 ---
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img
-  width="95%"
-  src="https://streak-stats.demolab.com?user=chanhuynguyen-ai&theme=merko&hide_border=true"
-  alt="GitHub Contribution Streak"
-/>
-
-</p>
