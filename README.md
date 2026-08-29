@@ -7,40 +7,18 @@ I'm an AI & Robotics engineering student focused on building intelligent systems
 My main interests are **Computer Vision, Artificial Intelligence, Autonomous Robots, ROS 2, Edge AI, and LLM-powered applications**.
 
 <p align="left">
-
-<a href="https://github.com/chanhuynguyen-ai?tab=followers">
-  <img
-    alt="GitHub Followers"
-    src="https://custom-icon-badges.demolab.com/github/followers/chanhuynguyen-ai?color=ABD200&labelColor=0A0F0B&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=ABD200"
-  />
-</a>
-
-<a href="https://github.com/chanhuynguyen-ai?tab=repositories&sort=stargazers">
-  <img
-    alt="GitHub Stars"
-    src="https://custom-icon-badges.demolab.com/github/stars/chanhuynguyen-ai?color=68B587&labelColor=0A0F0B&style=for-the-badge&logo=star&logoColor=ABD200"
-  />
-</a>
-
+  <a href="https://github.com/chanhuynguyen-ai?tab=followers">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/chanhuynguyen-ai?color=ABD200&labelColor=0A0F0B&style=flat-square&logo=github&label=Follow" />
+  </a>
+  <a href="https://github.com/chanhuynguyen-ai?tab=repositories&sort=stargazers">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/chanhuynguyen-ai?color=68B587&labelColor=0A0F0B&style=flat-square&logo=starship&label=Stars" />
+  </a>
+  <a href="https://www.linkedin.com/in/huy-chan-nguyen-robot-ai/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-ABD200?style=flat-square&logo=linkedin&logoColor=ABD200&labelColor=0A0F0B" />
+  </a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=chanhuynguyen-ai&label=Profile%20Views&color=ABD200&style=flat-square" />
 </p>
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/huy-chan-nguyen-robot-ai/">
-  <img
-    alt="LinkedIn"
-    src="https://img.shields.io/badge/LinkedIn-CONNECT-ABD200?style=for-the-badge&logo=linkedin&logoColor=ABD200&labelColor=0A0F0B"
-  />
-</a>
-
-<img
-  alt="Profile Views"
-  src="https://komarev.com/ghpvc/?username=chanhuynguyen-ai&label=PROFILE+VIEWS&color=ABD200&style=for-the-badge"
-/>
-
-</p>
-
----
 
 ## 🧰 Languages and Tools
 
