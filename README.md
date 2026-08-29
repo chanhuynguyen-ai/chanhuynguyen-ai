@@ -2,7 +2,7 @@
 
 **`AI • Computer Vision • Robotics Engineer`**
 
-I'm an AI & Robotics engineering student focused on building intelligent systems that can **see, understand, and interact with the real world**.
+I'm an AI & Robotics engineering on building intelligent systems that can **see, understand, and interact with the real world**.
 
 My main interests are **Computer Vision, Artificial Intelligence, Autonomous Robots, ROS 2, Edge AI, and LLM-powered applications**.
 
