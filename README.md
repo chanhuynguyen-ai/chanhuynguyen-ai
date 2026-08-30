@@ -59,7 +59,7 @@ My main interests are **Computer Vision, Artificial Intelligence, Autonomous Rob
 
 <td width="50%" valign="top">
 
-### 🛗 ElevatorAI
+### 🛗 ElevatorAI Edge Platform
 
 AI-powered elevator platform for **real-time computer vision, intelligent monitoring, and AI services**.
 
