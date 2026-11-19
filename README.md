@@ -1,6 +1,6 @@
 # 🤖 Nguyen Chan Huy
 
-**`AI • Computer Vision Engineer`**
+**`ROBOTICS • Computer Vision Engineer`**
 
 I'm an AI & Robotics engineering on building intelligent systems that can **see, understand, and interact with the real world**.
 
