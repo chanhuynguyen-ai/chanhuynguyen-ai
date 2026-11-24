@@ -4,7 +4,7 @@
 
 **`Robotics & Simulation Engineer`**
 
-**ROBOTICS • SIMULATION • COMPUTER VISION • AI**
+**ROBOTICS • SIMULATION • COMPUTER VISION • EMBEDDED SYSTEMS • AI**
 
 `Industrial Robotics` · `Physics-Based Simulation` · `Digital Twin` · `Motion Control`
 
@@ -30,7 +30,7 @@ Engineering robotic systems from virtual models and physics-based simulation to 
 
 I am a **Robotics & Simulation Engineer** focused on building intelligent robotic systems through robot modeling, physics-based simulation, motion control, and software-hardware integration.
 
-My work combines **industrial robotics, autonomous mobile robots, digital twins, computer vision, and artificial intelligence**. I use simulation to study robotic behavior, evaluate motion and control strategies, and validate engineering concepts before physical deployment. My broader interests include edge AI, robot learning, and LLM-powered applications.
+My work combines **industrial robotics, autonomous mobile robots, digital twins, computer vision, embedded systems, and artificial intelligence**. I use simulation to study robotic behavior, evaluate motion and control strategies, and validate engineering concepts before physical deployment. I also work on embedded robot integration, low-level control, and sensor-actuator interfaces using microcontrollers and ROS 2. My broader interests include edge AI, robot learning, and LLM-powered applications.
 
 **Engineering philosophy:** Model the system. Simulate its behavior. Validate the motion. Integrate with real hardware.
 
@@ -47,8 +47,6 @@ My work combines **industrial robotics, autonomous mobile robots, digital twins,
 ![Path Planning](https://img.shields.io/badge/Path_Planning-0A0F0B?style=for-the-badge)
 ![SCARA](https://img.shields.io/badge/SCARA-0A0F0B?style=for-the-badge)
 ![AGV / AMR](https://img.shields.io/badge/AGV_%2F_AMR-0A0F0B?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-0A0F0B?style=for-the-badge&logo=espressif&logoColor=ABD200)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0A0F0B?style=for-the-badge&logo=raspberrypi&logoColor=ABD200)
 
 ### 🧊 Robot Simulation & Digital Twin
 
@@ -72,6 +70,23 @@ My work combines **industrial robotics, autonomous mobile robots, digital twins,
 ![Object Detection](https://img.shields.io/badge/Object_Detection-0A0F0B?style=for-the-badge)
 ![Segmentation](https://img.shields.io/badge/Segmentation-0A0F0B?style=for-the-badge)
 ![Real-time Vision](https://img.shields.io/badge/Real--time_Vision-0A0F0B?style=for-the-badge)
+
+### 🔌 Embedded Systems & Firmware
+
+![ESP32](https://img.shields.io/badge/ESP32-0A0F0B?style=for-the-badge&logo=espressif&logoColor=ABD200)
+![ESP32-S3](https://img.shields.io/badge/ESP32--S3-0A0F0B?style=for-the-badge&logo=espressif&logoColor=ABD200)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0A0F0B?style=for-the-badge&logo=raspberrypi&logoColor=ABD200)
+![Embedded C++](https://img.shields.io/badge/Embedded_C%2B%2B-0A0F0B?style=for-the-badge&logo=cplusplus&logoColor=ABD200)
+![micro-ROS](https://img.shields.io/badge/micro--ROS-0A0F0B?style=for-the-badge&logo=ros&logoColor=ABD200)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-0A0F0B?style=for-the-badge&logo=linux&logoColor=ABD200)
+![Firmware](https://img.shields.io/badge/Firmware-0A0F0B?style=for-the-badge)
+![Motor Control](https://img.shields.io/badge/Motor_Control-0A0F0B?style=for-the-badge)
+![Sensor Integration](https://img.shields.io/badge/Sensor_Integration-0A0F0B?style=for-the-badge)
+![IMU](https://img.shields.io/badge/IMU-0A0F0B?style=for-the-badge)
+![Encoders](https://img.shields.io/badge/Encoders-0A0F0B?style=for-the-badge)
+![DDS](https://img.shields.io/badge/DDS-0A0F0B?style=for-the-badge)
+
+**Additional embedded R&D interests:** STM32, RTOS, UART, I2C, SPI and CAN bus.
 
 ### 🧠 Artificial Intelligence & Robot Learning
 
@@ -102,6 +117,7 @@ My work combines **industrial robotics, autonomous mobile robots, digital twins,
 | **Robotics & Control** | `ROS 2` `micro-ROS` `C++` `Python` | SCARA, manipulators, AGV/AMR, kinematics, motion planning and feedback control |
 | **Simulation & Digital Twin** | `Gazebo` `MuJoCo` `URDF` `SDF` `MJCF` | Robot modeling, joint dynamics, collision checking, virtual workcells and factory workflows |
 | **Computer Vision & Edge AI** | `OpenCV` `YOLO` `PyTorch` `NCNN` | Detection, segmentation, tracking, geometric perception and real-time inference |
+| **Embedded Systems & Firmware** | `ESP32-S3` `Raspberry Pi 5` `micro-ROS` `C++` | Embedded robot integration, sensor feedback, actuator interfaces and low-level motor control |
 | **AI & Robot Learning** | `Python` `PyTorch` `RL` `LLM` `RAG` | Learning-based control experiments and intelligent applications |
 | **Software & Integration** | `FastAPI` `Next.js` `PostgreSQL` `Docker` | APIs, monitoring, dashboards, data management and deployment |
 
