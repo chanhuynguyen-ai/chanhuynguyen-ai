@@ -1,26 +1,10 @@
 <div align="center">
 
-# 🤖 Nguyen Chan Huy
+# Nguyen Chan Huy
 
-**`Robotics & Simulation Engineer`**
-
-**ROBOTICS • SIMULATION • COMPUTER VISION • EMBEDDED SYSTEMS • AI**
-
-`Industrial Robotics` · `Physics-Based Simulation` · `Digital Twin` · `Motion Control`
+**ROBOTICS • SIMULATION**
 
 Engineering robotic systems from virtual models and physics-based simulation to motion control and real-world integration.
-
-<p>
-  <a href="https://github.com/chanhuynguyen-ai?tab=followers"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/chanhuynguyen-ai?color=ABD200&labelColor=0A0F0B&style=flat-square&logo=github&logoColor=ABD200&label=Followers" /></a>
-  <a href="https://github.com/chanhuynguyen-ai?tab=repositories&sort=stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/chanhuynguyen-ai?color=68B587&labelColor=0A0F0B&style=flat-square&logo=github&logoColor=ABD200&label=Stars" /></a>
-  <a href="https://www.linkedin.com/in/huy-chan-nguyen-robot-ai/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-ABD200?style=flat-square&logo=linkedin&logoColor=ABD200&labelColor=0A0F0B" /></a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=chanhuynguyen-ai&label=Profile%20Views&color=ABD200&style=flat-square" />
-</p>
-
-<img alt="ROS 2" src="https://img.shields.io/badge/ROS_2-0A0F0B?style=for-the-badge&logo=ros&logoColor=ABD200" />
-<img alt="Gazebo" src="https://img.shields.io/badge/GAZEBO-0A0F0B?style=for-the-badge&logoColor=ABD200" />
-<img alt="MuJoCo" src="https://img.shields.io/badge/MUJOCO-0A0F0B?style=for-the-badge&logoColor=ABD200" />
-<img alt="Digital Twin" src="https://img.shields.io/badge/DIGITAL_TWIN-0A0F0B?style=for-the-badge" />
 
 </div>
 
@@ -33,6 +17,55 @@ I am a **Robotics & Simulation Engineer** focused on building intelligent roboti
 My work combines **industrial robotics, autonomous mobile robots, digital twins, computer vision, embedded systems, and artificial intelligence**. I use simulation to study robotic behavior, evaluate motion and control strategies, and validate engineering concepts before physical deployment. I also work on embedded robot integration, low-level control, and sensor-actuator interfaces using microcontrollers and ROS 2. My broader interests include edge AI, robot learning, and LLM-powered applications.
 
 **Engineering philosophy:** Model the system. Simulate its behavior. Validate the motion. Integrate with real hardware.
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img alt="DAT Group" src="https://img.shields.io/badge/DAT_GROUP-ABD200?style=for-the-badge&logoColor=0A0F0B" />
+
+<h3>Smart Elevator AI</h3>
+
+<p><b>AI & Computer Vision Engineering</b></p>
+
+<p>Development of intelligent elevator systems integrating real-time computer vision, edge AI, intelligent monitoring, and AI-powered services.</p>
+
+<ul>
+<li>Real-time visual perception and AI inference.</li>
+<li>Edge AI integration for smart elevator applications.</li>
+<li>Backend services, monitoring, and system integration.</li>
+</ul>
+
+<p><code>Python</code> <code>YOLO</code> <code>OpenCV</code> <code>Edge AI</code> <code>FastAPI</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<img alt="FIAI Smart Factory" src="https://img.shields.io/badge/FIAI_SMART_FACTORY-ABD200?style=for-the-badge&logoColor=0A0F0B" />
+
+<h3>Smart Factory & Industrial Robotics</h3>
+
+<p><b>Robotics & Simulation Engineering</b></p>
+
+<p>Research and development of robotic automation and factory digital twins, focusing on industrial manipulators, mobile robots, and simulation-driven engineering.</p>
+
+<ul>
+<li>SCARA robot and AGV modeling and simulation.</li>
+<li>Motion planning, robot coordination, and virtual workcell validation.</li>
+<li>Factory digital twin development and ROS 2 system integration.</li>
+</ul>
+
+<p><code>ROS 2</code> <code>Gazebo</code> <code>MuJoCo</code> <code>SCARA</code> <code>AGV</code> <code>Digital Twin</code></p>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🧰 Languages & Tools
 
@@ -86,8 +119,6 @@ My work combines **industrial robotics, autonomous mobile robots, digital twins,
 ![Encoders](https://img.shields.io/badge/Encoders-0A0F0B?style=for-the-badge)
 ![DDS](https://img.shields.io/badge/DDS-0A0F0B?style=for-the-badge)
 
-**Additional embedded R&D interests:** STM32, RTOS, UART, I2C, SPI and CAN bus.
-
 ### 🧠 Artificial Intelligence & Robot Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A0F0B?style=for-the-badge)
@@ -122,29 +153,6 @@ My work combines **industrial robotics, autonomous mobile robots, digital twins,
 | **Software & Integration** | `FastAPI` `Next.js` `PostgreSQL` `Docker` | APIs, monitoring, dashboards, data management and deployment |
 
 ---
-
-## 🔬 Current Robotics R&D
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>Industrial Robot Simulation</h3>
-<p>Physics-based simulation of articulated robots, focusing on joint modeling, kinematics, end-effector motion, and virtual validation of robotic tasks.</p>
-<p><code>MuJoCo</code> <code>Python</code> <code>Robot Modeling</code></p>
-<img alt="R&D" src="https://img.shields.io/badge/ROBOTICS-R%26D-68B587?style=flat-square&labelColor=0A0F0B" />
-</td>
-<td width="50%" valign="top">
-<h3>Industrial Digital Twin</h3>
-<p>Simulation-driven engineering of robotic workcells and mobile robot systems, with an emphasis on virtual layout, motion coordination, and workflow validation.</p>
-<p><code>Gazebo</code> <code>ROS 2</code> <code>Digital Twin</code></p>
-<img alt="R&D" src="https://img.shields.io/badge/SIMULATION-R%26D-68B587?style=flat-square&labelColor=0A0F0B" />
-</td>
-</tr>
-</table>
-
-*Selected research areas. Proprietary project source code and implementation details are not included in this public profile.*
-
-## 🚀 Featured Projects
 
 <table>
 <tr>
