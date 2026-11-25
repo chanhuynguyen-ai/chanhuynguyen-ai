@@ -2,7 +2,7 @@
 
 # Nguyen Chan Huy
 
-**ROBOTICS • SIMULATION**
+**ROBOTICS • SIMULATION • COMPUTER VISION**
 
 Engineering robotic systems from virtual models and physics-based simulation to motion control and real-world integration.
 
@@ -17,55 +17,6 @@ I am a **Robotics & Simulation Engineer** focused on building intelligent roboti
 My work combines **industrial robotics, autonomous mobile robots, digital twins, computer vision, embedded systems, and artificial intelligence**. I use simulation to study robotic behavior, evaluate motion and control strategies, and validate engineering concepts before physical deployment. I also work on embedded robot integration, low-level control, and sensor-actuator interfaces using microcontrollers and ROS 2. My broader interests include edge AI, robot learning, and LLM-powered applications.
 
 **Engineering philosophy:** Model the system. Simulate its behavior. Validate the motion. Integrate with real hardware.
-
----
-
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img alt="DAT Group" src="https://img.shields.io/badge/DAT_GROUP-ABD200?style=for-the-badge&logoColor=0A0F0B" />
-
-<h3>Smart Elevator AI</h3>
-
-<p><b>AI & Computer Vision Engineering</b></p>
-
-<p>Development of intelligent elevator systems integrating real-time computer vision, edge AI, intelligent monitoring, and AI-powered services.</p>
-
-<ul>
-<li>Real-time visual perception and AI inference.</li>
-<li>Edge AI integration for smart elevator applications.</li>
-<li>Backend services, monitoring, and system integration.</li>
-</ul>
-
-<p><code>Python</code> <code>YOLO</code> <code>OpenCV</code> <code>Edge AI</code> <code>FastAPI</code></p>
-
-</td>
-<td width="50%" valign="top">
-
-<img alt="FIAI Smart Factory" src="https://img.shields.io/badge/FIAI_SMART_FACTORY-ABD200?style=for-the-badge&logoColor=0A0F0B" />
-
-<h3>Smart Factory & Industrial Robotics</h3>
-
-<p><b>Robotics & Simulation Engineering</b></p>
-
-<p>Research and development of robotic automation and factory digital twins, focusing on industrial manipulators, mobile robots, and simulation-driven engineering.</p>
-
-<ul>
-<li>SCARA robot and AGV modeling and simulation.</li>
-<li>Motion planning, robot coordination, and virtual workcell validation.</li>
-<li>Factory digital twin development and ROS 2 system integration.</li>
-</ul>
-
-<p><code>ROS 2</code> <code>Gazebo</code> <code>MuJoCo</code> <code>SCARA</code> <code>AGV</code> <code>Digital Twin</code></p>
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🧰 Languages & Tools
 
@@ -140,7 +91,53 @@ My work combines **industrial robotics, autonomous mobile robots, digital twins,
 ![Linux](https://img.shields.io/badge/Linux-0A0F0B?style=for-the-badge&logo=linux&logoColor=ABD200)
 
 ---
+## 💼 Professional Experience
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img alt="DAT Group" src="https://img.shields.io/badge/DAT_GROUP-ABD200?style=for-the-badge&logoColor=0A0F0B" />
+
+<h3>Smart Elevator AI</h3>
+
+<p><b>AI & Computer Vision Engineering</b></p>
+
+<p>Development of intelligent elevator systems integrating real-time computer vision, edge AI, intelligent monitoring, and AI-powered services.</p>
+
+<ul>
+<li>Real-time visual perception and AI inference.</li>
+<li>Edge AI integration for smart elevator applications.</li>
+<li>Backend services, monitoring, and system integration.</li>
+</ul>
+
+<p><code>Python</code> <code>YOLO</code> <code>OpenCV</code> <code>Edge AI</code> <code>FastAPI</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<img alt="FIAI Smart Factory" src="https://img.shields.io/badge/FIAI_SMART_FACTORY-ABD200?style=for-the-badge&logoColor=0A0F0B" />
+
+<h3>Smart Factory & Industrial Robotics</h3>
+
+<p><b>Robotics & Simulation Engineering</b></p>
+
+<p>Research and development of robotic automation and factory digital twins, focusing on industrial manipulators, mobile robots, and simulation-driven engineering.</p>
+
+<ul>
+<li>SCARA robot and AGV modeling and simulation.</li>
+<li>Motion planning, robot coordination, and virtual workcell validation.</li>
+<li>Factory digital twin development and ROS 2 system integration.</li>
+</ul>
+
+<p><code>ROS 2</code> <code>Gazebo</code> <code>MuJoCo</code> <code>SCARA</code> <code>AGV</code> <code>Digital Twin</code></p>
+
+</td>
+</tr>
+</table>
+
+
+---
 ## 🧠 Engineering Focus
 
 | Area | Core Stack | Engineering Focus |
